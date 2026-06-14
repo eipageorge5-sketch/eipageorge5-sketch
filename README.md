@@ -1,16 +1,28 @@
-## Hi there 👋
+### Hi there, I'm George Moruita Eipa 👋
 
-<!--
-**eipageorge5-sketch/eipageorge5-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Web Developer | Data Specialist | Performance Optimization Expert**
 
-Here are some ideas to get you started:
+I bridge the gap between business operations and digital infrastructure. I specialize in building high-performance, low-bandwidth web applications and custom business dashboards. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently optimizing systems at EMCA Motors and building digital solutions for emerging markets.
+
+- 🚀 **Core Focus:** Web Performance Optimization (WPO), Mobile-First Design, and SQL Data Management.
+- 💼 **Business Experience:** Former Sales Manager & System Operator. I build tech that solves actual business bottlenecks.
+- 🌍 **Niche:** Engineering high-definition web experiences for restricted 3G/mobile bandwidth environments.
+
+### 🛠️ Tech Stack
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), Performance Optimization (Intersection Observer, Lazy-loading)
+- **Backend/Data:** SQL, Database Design, UniQon GMS
+- **Tools:** Git/GitHub, VS Code, Lighthouse Auditing
+
+### 🌟 Featured Projects
+🔗 **[The Spirit of Turkana](#)** | *Lead Developer & UX Architect*
+Engineered a lazy-loading media pipeline for a cinematic documentary platform, reducing initial page weight by 60% and maintaining 60fps on 3G networks.
+
+🔗 **[EMCA Motors Web Platform](#)** | *Full-Stack Developer*
+Official web platform and inventory management interface for EMCA Motors Lodwar, digitizing spare parts tracking and service records.
+
+🔗 **[Documentary Archive Platform](#)** | *Full-Stack Contributor*
+Developed a responsive, mobile-first CMS interface for archiving oral histories and cultural media.
+
+📫 **Reach me at:** eipageorge5@gmail.com | [LinkedIn](https://www.linkedin.com/in/george-eipa-93ab4b371)
