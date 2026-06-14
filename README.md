@@ -16,7 +16,7 @@ Currently optimizing systems at EMCA Motors and building digital solutions for e
 - **Tools:** Git/GitHub, VS Code, Lighthouse Auditing
 
 ### 🌟 Featured Projects
-🔗 **[The Spirit of Turkana](eipageorge5-sketch.github.io/spirit-of-turkana/)** | *Lead Developer & UX Architect*
+🔗 **[The Spirit of Turkana](https://eipageorge5-sketch.github.io/spirit-of-turkana/)** | *Lead Developer & UX Architect*
 Engineered a lazy-loading media pipeline for a cinematic documentary platform, reducing initial page weight by 60% and maintaining 60fps on 3G networks.
 
 🔗 **[EMCA Motors Web Platform](#)** | *Full-Stack Developer*
