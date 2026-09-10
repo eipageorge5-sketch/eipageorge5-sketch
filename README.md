@@ -16,13 +16,16 @@ Currently optimizing systems at EMCA Motors and building digital solutions for e
 - **Tools:** Git/GitHub, VS Code, Lighthouse Auditing
 
 ### 🌟 Featured Projects
-🔗 **[The Spirit of Turkana](https://eipageorge5-sketch.github.io/spirit-of-turkana/)** | *Lead Developer & UX Architect*
+ 🔗 **[Turkana MajiLink (Live Web App)](https://turkana-maji-link.vercel.app/)** | **Lead Full-Stack Developer & Architect**  
+  Engineered an offline-first PWA for water point tracking in restricted-bandwidth environments. Integrated Next.js 16 and Supabase with an IndexedDB sync queue, ensuring 100% data preservation when users are offline. *(Private SaaS Repository)*
+  
+🔗 **[The Spirit of Turkana](https://eipageorge5-sketch.github.io/spirit-of-turkana/)** | **Lead Developer & UX Architect**
 Engineered a lazy-loading media pipeline for a cinematic documentary platform, reducing initial page weight by 60% and maintaining 60fps on 3G networks.
 
-🔗 **[EMCA Motors Web Platform](https://eipageorge5-sketch.github.io/GeorgeDocumentation/)** | *Full-Stack Developer*
+🔗 **[EMCA Motors Web Platform](https://eipageorge5-sketch.github.io/GeorgeDocumentation/)** | **Full-Stack Developer**
 Official web platform and inventory management interface for EMCA Motors Lodwar, digitizing spare parts tracking and service records.
 
-🔗 **[Documentary Archive Platform](https://eipageorge5-sketch.github.io/cultural-documentary-archive/)** | *Full-Stack Contributor*
+🔗 **[Documentary Archive Platform](https://eipageorge5-sketch.github.io/cultural-documentary-archive/)** | **Full-Stack Contributor**
 Developed a responsive, mobile-first CMS interface for archiving oral histories and cultural media.
 
 📫 **Reach me at:** eipageorge5@gmail.com | [LinkedIn](https://www.linkedin.com/in/george-eipa-93ab4b371)
