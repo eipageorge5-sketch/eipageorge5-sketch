@@ -77,9 +77,9 @@ NestJS backend with MongoDB + Mongoose for persistent storage. Flutter frontend 
 
 ## GitHub Stats
 
-![George's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eipageorge5-sketch&show_icons=true&theme=dark&hide_border=true&bg_color=0a0f1a&title_color=f97316&icon_color=f97316&text_color=f8fafc)
+![George's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=eipageorge5-sketch&show_icons=true&theme=dark&hide_border=true&bg_color=0a0f1a&title_color=f97316&icon_color=f97316&text_color=f8fafc)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eipageorge5-sketch&layout=compact&theme=dark&hide_border=true&bg_color=0a0f1a&title_color=f97316&text_color=f8fafc)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=eipageorge5-sketch&layout=compact&theme=dark&hide_border=true&bg_color=0a0f1a&title_color=f97316&text_color=f8fafc)
 
 ---
 
@@ -87,7 +87,7 @@ NestJS backend with MongoDB + Mongoose for persistent storage. Flutter frontend 
 
 - 📚 Studying **ICT** at Eldoret National Polytechnic
 - 🔧 Advancing through **Power Learn Project** Software Engineering programme
-- 🏗️ Building SaaS platforms in development — WiFiHub ISP Manager & SCCBO Platform
+- 🏗️ Building SaaS platforms in development-WiFiHub ISP Manager & SCCBO Platform
 - 🌍 Passionate about building digital tools that work anywhere in Africa
 
 ---
