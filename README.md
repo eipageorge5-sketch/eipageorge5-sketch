@@ -1,6 +1,6 @@
 # Hi, I'm George Moruita Eipa 
 
-### Full-Stack Software Engineer · Kenya 
+### Full-Stack Software Engineer 
 
 > I build REST APIs, real-time systems, and performance-first web applications that work in the real world — not just in perfect conditions.
 
@@ -30,7 +30,7 @@
 
 ## Featured Projects
 
-### [Reflex Delivery MVP](https://github.com/eipageorge5-sketch/reflex-delivery)
+### [Reflex Delivery MVP](https://reflex-delivery-backend.onrender.com/)
 > Real-time logistics platform solving the visibility gap in local delivery operations.
 
 Three role-based dashboards (Retailer, Dispatcher, Rider) communicating live via **Socket.IO**. Split-stack architecture — Next.js frontend on Vercel, Node.js + Socket.IO backend on Render for persistent WebSocket connections. Includes production-grade CORS configuration and Supabase connection pooling via Prisma.
@@ -48,7 +48,7 @@ Built a lazy-loading image/video pipeline using the **Intersection Observer API*
 
 ---
 
-### [Northstar Webhook Prototype](https://github.com/eipageorge5-sketch/northstar-webhook)
+### [Northstar Webhook Prototype](https://northstar-webhook-prototype.onrender.com/)
 > Production-style inventory webhook service with enterprise-grade security.
 
 **HMAC-SHA256** signature verification, RESTful endpoints for real-time stock updates, and an in-memory inventory management workflow. Deployed on Render.
@@ -57,7 +57,7 @@ Built a lazy-loading image/video pipeline using the **Intersection Observer API*
 
 ---
 
-### [Solstice Event Check-in](https://github.com/eipageorge5-sketch/solstice-checkin)
+### [Solstice Event Check-in](https://solstice-event-checkin-f52r.onrender.com/)
 > Asynchronous event check-in system with automated badge-printing workflows.
 
 QR code attendee processing, duplicate check-in prevention, and **RabbitMQ + CloudAMQP** for async message queuing between the API and background worker. Durable message queues and webhook-based status updates.
@@ -66,7 +66,7 @@ QR code attendee processing, duplicate check-in prevention, and **RabbitMQ + Clo
 
 ---
 
-### [Bingwa Task App](https://github.com/eipageorge5-sketch/bingwa-task)
+### [Bingwa Task App](https://bingwa-task-app.onrender.com/)
 > Full-stack task management app — REST API backend + Flutter mobile frontend.
 
 NestJS backend with MongoDB + Mongoose for persistent storage. Flutter frontend communicating with the backend API. Secure environment-based credential configuration. Deployed on Render.
@@ -94,7 +94,7 @@ NestJS backend with MongoDB + Mongoose for persistent storage. Flutter frontend 
 
 ## 📬 Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-f97316?style=flat-square&logo=googlechrome&logoColor=white)](https://eipageorge5-sketch.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-f97316?style=flat-square&logo=googlechrome&logoColor=white)](https://eipageorge5-sketch.github.io/PORTFOLIO/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/george-eipa-93ab4b371/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/LaFamily550)
 [![Email](https://img.shields.io/badge/Email-f97316?style=flat-square&logo=gmail&logoColor=white)](mailto:eipageorge5@gmail.com)
