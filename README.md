@@ -77,9 +77,7 @@ NestJS backend with MongoDB + Mongoose for persistent storage. Flutter frontend 
 
 ## GitHub Stats
 
-![George's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=eipageorge5-sketch&show_icons=true&theme=dark&hide_border=true&bg_color=0a0f1a&title_color=f97316&icon_color=f97316&text_color=f8fafc)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=eipageorge5-sketch&layout=compact&theme=dark&hide_border=true&bg_color=0a0f1a&title_color=f97316&text_color=f8fafc)
+![GitHub Streak](https://streak-stats.demolab.com?user=eipageorge5-sketch&theme=dark&hide_border=true&background=0a0f1a&ring=f97316&fire=f97316&currStreakLabel=f97316)
 
 ---
 
